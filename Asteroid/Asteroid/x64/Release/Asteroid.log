@@ -1,0 +1,11 @@
+﻿  Player.cpp
+C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(43,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(70,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(77,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  72 of 334 functions (21.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Asteroid.vcxproj -> C:\Users\user\source\repos\Asteroid\x64\Release\Asteroid.exe
