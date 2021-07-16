@@ -52,7 +52,6 @@ int main() {
     sf::CircleShape player(15.f, 3);
     player.setOrigin(15.f, 15.f);
     player.setPosition(window.getSize().x / 2.0f, window.getSize().y / 2.0f);
-    player.setFillColor(sf::Color::Red);
 
     //Player image
     sf::Texture playerTexture;
