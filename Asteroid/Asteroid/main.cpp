@@ -84,7 +84,7 @@ int main() {
     bool isFire = false;
 
     sf::Vector2f aimDirNorm;
-
+    
     while (window.isOpen()) {
         sf::Event event;
         while (window.pollEvent(event)) {
