@@ -1,11 +1,10 @@
-﻿  Player.cpp
-C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(43,32): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(70,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(77,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+﻿  main.cpp
+C:\Users\user\GitHub Repositorys\Asteroid-Game\Asteroid\Asteroid\main.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\GitHub Repositorys\Asteroid-Game\Asteroid\Asteroid\main.cpp(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\GitHub Repositorys\Asteroid-Game\Asteroid\Asteroid\main.cpp(45,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\GitHub Repositorys\Asteroid-Game\Asteroid\Asteroid\main.cpp(91,92): warning C4805: '==': unsafe mix of type 'sf::Event::EventType' and type 'bool' in operation
   Generating code
-  72 of 334 functions (21.6%) were compiled, the rest were copied from previous compilation.
-    1 functions were new in current compilation
-    14 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 341 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  Asteroid.vcxproj -> C:\Users\user\source\repos\Asteroid\x64\Release\Asteroid.exe
+  Asteroid.vcxproj -> C:\Users\user\GitHub Repositorys\Asteroid-Game\Asteroid\x64\Release\Asteroid.exe

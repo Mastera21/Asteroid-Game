@@ -1,12 +1,1 @@
-﻿  main.cpp
-C:\Users\user\source\repos\Asteroid\Asteroid\main.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\user\source\repos\Asteroid\Asteroid\main.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\user\source\repos\Asteroid\Asteroid\main.cpp(55,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\user\source\repos\Asteroid\Asteroid\main.cpp(96,92): warning C4805: '==': unsafe mix of type 'sf::Event::EventType' and type 'bool' in operation
-  Player.cpp
-C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(44,32): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(71,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\user\source\repos\Asteroid\Asteroid\Player.cpp(78,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Generating Code...
-  Asteroid.vcxproj -> C:\Users\user\source\repos\Asteroid\x64\Debug\Asteroid.exe
+﻿  Asteroid.vcxproj -> C:\Users\user\GitHub Repositorys\Asteroid-Game\Asteroid\x64\Debug\Asteroid.exe
