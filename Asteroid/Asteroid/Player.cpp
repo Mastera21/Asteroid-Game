@@ -28,10 +28,10 @@ void Player::move(sf::CircleShape& player) {
     else if (sf::Keyboard::isKeyPressed(sf::Keyboard::W) && sf::Keyboard::isKeyPressed(sf::Keyboard::A)) {//up left
         player.move(sf::Vector2f(-5, 5));
     }
-    else if (sf::Keyboard::isKeyPressed(sf::Keyboard::S) && sf::Keyboard::isKeyPressed(sf::Keyboard::A)) {//donw left
+    else if (sf::Keyboard::isKeyPressed(sf::Keyboard::S) && sf::Keyboard::isKeyPressed(sf::Keyboard::A)) {//down left
         player.move(sf::Vector2f(-5, -5));
     }
-    else if (sf::Keyboard::isKeyPressed(sf::Keyboard::S) && sf::Keyboard::isKeyPressed(sf::Keyboard::D)) {//donw right
+    else if (sf::Keyboard::isKeyPressed(sf::Keyboard::S) && sf::Keyboard::isKeyPressed(sf::Keyboard::D)) {//down right
         player.move(sf::Vector2f(5, -5));
     }
 }
